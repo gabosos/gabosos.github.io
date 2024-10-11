@@ -1,0 +1,88 @@
+body { 
+    background-color: rgb(255, 248, 211);
+}
+
+.titUlofeliz { 
+    color: #f49292;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center; /* Mantener centrado */
+}
+
+.centralizacion {
+    display: flex;
+    margin-left: 440px;
+    margin-top: -60px;
+}
+
+.texoso {
+    margin-left: 450px;
+    padding: 20px;
+    width: 40%; 
+    margin-top: -262px; /* Mantener original */
+}
+
+.SIs {
+    margin-left: 740px;
+    margin-top: 200px;
+    display: flex; /* Mantener como flex */
+}
+
+.otra2 {
+    margin-right: 650px;
+    margin-top: -250px; 
+    display: flex; /* Mantener como flex */
+}
+
+.explicaxion {
+    margin-left: 750px;
+    margin-top: -200px; 
+    width: 40%; 
+    font-family: sans-serif; 
+}
+
+.explicazion2 {
+    width: 40%; 
+    font-family: sans-serif; 
+    margin-top: -190px;
+    margin-left: 20px;
+    display: flex; /* Mantener como flex */
+}
+
+.titulodeltema { 
+    font-family: sans-serif;  
+    font-size: 30px;
+    margin-top: -230px; 
+    margin-left: 800px;
+    color: #ff0000;
+    display: block;
+    
+}
+
+ .ojala-sirva{
+    color: #ff0000;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: -100px;
+    margin-left: 100px;
+}
+
+.link {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 130px; /* Ajusta este valor para bajar el enlace */
+    font-family: sans-serif;
+}
+
+.nombre {
+    color: #ff0000;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: -40px;
+    margin-left: 800px;
+    display: block;
+}
